@@ -1,0 +1,81 @@
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Cliente\obj\Debug\Cliente.Inicio.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Cliente\obj\Debug\Cliente.Form2.resources
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.Form2.resources
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\bin\Debug\Cliente.exe.config
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\bin\Debug\Cliente.exe
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\bin\Debug\Cliente.pdb
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.exe
+C:\share\Proyecto\ProyectoSO_GRUPO1\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\bin\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\obj\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Entrega Toni\ProyectoSO_GRUPO1-1.1\Cliente\obj\Debug\Cliente.pdb
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.pdb
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.exe
+C:\Users\andre\Desktop\Share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.exe
+C:\Users\erikf\Desktop\Proyecto SO ANDREI\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.pdb
+C:\share\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe.config
+C:\share\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe
+C:\share\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.pdb
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.exe
+C:\share\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 2.2 Exclusion y ListaConectados\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\bin\Debug\Cliente.pdb
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.exe
+C:\Users\erikf\Documents\Universidad\SO\Proyecto SO\Versiones Proyecto\Version 3 consultas bien\SO_Monopoly_Grupo1\Cliente\obj\Debug\Cliente.pdb
